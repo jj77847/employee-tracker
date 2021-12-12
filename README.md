@@ -30,7 +30,7 @@ The application gives you the following options:
 
 3. Follow prompt if presented
 
-   ![](images/sample.png)
+   ![](sample placeholder)
 
 ## Tool & Resources
 
