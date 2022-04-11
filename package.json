@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -12,10 +11,15 @@
     "url": "git+https://github.com/jj77847/employee-tracker.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Jefferies",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jj77847/employee-tracker/issues"
   },
-  "homepage": "https://github.com/jj77847/employee-tracker#readme"
+  "homepage": "https://github.com/jj77847/employee-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
+  }
 }
