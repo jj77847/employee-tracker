@@ -3,7 +3,7 @@ USE employee_db;
 INSERT INTO department (name) VALUES ("Management");
 INSERT INTO department (name) VALUES ("Sales");
 INSERT INTO department (name) VALUES ("Accounts");
-INSERT INTO department (name) VALUES ("Wharehouse");
+INSERT INTO department (name) VALUES ("Warehouse");
 
 INSERT INTO role (title, salary, department_id) VALUES ("Warehouse Forman", 70, 3);
 INSERT INTO role (title, salary, department_id) VALUES ("Senior Sales Rep", 50, 2);
